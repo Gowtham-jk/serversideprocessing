@@ -130,7 +130,9 @@ urlpatterns = [
 
 ```
 ## OUTPUT:
-![Alt text](table.png)
+![table](https://github.com/Gowtham-jk/serversideprocessing/assets/149857834/8bf2c745-ebcc-4a0a-9e54-344c17b43aec)
+
+
 
 
 ## Result:
