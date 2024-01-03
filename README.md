@@ -6,22 +6,27 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
+Complete the math html according to triarea.
 
 
 
 ### Step 2:
+Insert the code for urls.py in myproj.
 
 
 
 ### Step 3:
+Insert the code for views.py in myapp.
 
 
 
 ### Step 4:
+Complete the changes in settings.py in myproj.
 
 
 
 ### Step 5:
+Now run the server.
 
 
 
@@ -136,4 +141,4 @@ urlpatterns = [
 
 
 ## Result:
-
+The program was executed successfully.
